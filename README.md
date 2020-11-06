@@ -5,4 +5,4 @@
 - We `INSERT`, `UPDATE` and `DELETE` our data using simple clicks. 
 - Using this GUI application we easliy manage our ***DATA***.
 
-**Copy `management.py` file and run it on PyCharm(or any other application), you see my work**
+**Copy `management.py` file and run it on PyCharm(or any other application), you see my work**.
